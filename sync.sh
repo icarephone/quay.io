@@ -55,7 +55,7 @@ img_clean(){
     local Prefix=$domain$interval$namespace$interval
     shift 3
     while read img tag null;do
-        docker push registry.cn-shenzhen.aliyuncs.com/$img:$tag;docker rmi $img:$tag;
+        docker push $img:$tag;docker rmi $img:$tag;
         [ "$tag" != latest ] && echo $domain/$namespace/$image_name:$tag > $domain/$namespace/$image_name/$tag ||
             $@ $domain/$namespace/$image_name > $domain/$namespace/$image_name/$tag
         git_commit
