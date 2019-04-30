@@ -1,0 +1,13 @@
+tectonic-manager
+tectonic-monitoring-auth
+tectonic-postgres
+tectonic-smoke-test-env
+tectonic-terraform
+tectonic-wizard
+torus
+updateservicectl
+vault
+vault-operator
+vault-operator-dev
+web-builder
+zetcd
