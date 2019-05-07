@@ -1,0 +1,12 @@
+golang-builder
+graphite-exporter
+haproxy-exporter
+influxdb-exporter
+influxdb-exporter-linux-amd64
+memcached-exporter
+memcached-exporter-linux-amd64
+mysqld-exporter
+mysqld-exporter-linux-amd64
+node-exporter-linux-amd64
+node-exporter-linux-arm64
+node-exporter-linux-armv7
