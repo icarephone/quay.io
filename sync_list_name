@@ -1,4 +1,3 @@
-ci-composer
 ci-packer
 concourse-buildid-resource
 concourse-composer
