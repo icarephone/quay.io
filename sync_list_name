@@ -1,0 +1,8 @@
+scm-concourse-pip-pr
+scm-concourse-pr-glide
+scm-concourse-semver
+selenoid-ci
+semver-resource-depth
+slack-notification-resource
+strider-docker-spark
+vault-mutator
