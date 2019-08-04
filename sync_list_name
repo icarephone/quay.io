@@ -1,4 +1,3 @@
-istio-proxy
 istio-proxy_debug
 istio-proxy_init
 istio-sidecar_initializer
