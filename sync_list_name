@@ -1,4 +1,3 @@
-istio-proxy_init
 istio-sidecar_initializer
 k8s-policy-agent
 kube-controllers
