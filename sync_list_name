@@ -1,4 +1,3 @@
-go-build
 htmlproofer
 hyperkube
 istio-ca
