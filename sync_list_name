@@ -1,4 +1,3 @@
-aws-auth-proxy
 awscli
 aws-signing-proxy
 basic-auth-test-app
