@@ -1,2 +1,5 @@
-replicated-sidecar-controller
-replicated-ui
+webapp-ey
+wire-server-cache
+wire-server-deps
+wire-server-hoogle
+zauth
