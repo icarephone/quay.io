@@ -1,4 +1,13 @@
-ubuntu-slim-amd64
-ubuntu-slim-arm
-ubuntu-slim-arm64
-ubuntu-slim-ppc64le
+spar
+spar-integration
+spar-schema
+squid
+stern
+tiller
+ubuntu14-ghc-8
+webapp
+webapp-ey
+wire-server-cache
+wire-server-deps
+wire-server-hoogle
+zauth
